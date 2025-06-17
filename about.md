@@ -54,11 +54,11 @@ permalink: /about/
 <div class="hidden-info" style="display: none;">
     <div id="bio">
         <p>'''</p>
-        <p>I’m a Python web developer with a background in fashion design and marketing — a creative at heart who found a passion for building with code. I currently manage and design at a fashion house, where I blend creativity with technical problem-solving — skills that carry directly into my web development work.</p>
+        <p>I’m a Python web developer with a background in fashion design and marketing — a creative at heart who found a passion for building with code. I currently manage and design at a fashion house, where I blend creativity with technical problem-solving — skills that translate directly into my development work.</p>
 
-        <p>I’ve studied Python web development at the SoftUni software academy and now build full-featured web applications using Python, Django, JavaScript, HTML, CSS, and PostgreSQL. While I haven’t dived into frontend frameworks yet, I enjoy working across the stack and am always learning.</p>
+        <p>I studied Python web development at SoftUni Software Academy, and now build full-featured web applications using Python, Django, JavaScript, HTML, CSS, and PostgreSQL. While I haven’t yet explored frontend frameworks, I enjoy working across the stack and continuously expanding my skills.</p>
 
-        <p>Outside of tech and design, I’m into reading, movies, music, cycling, travel, sewing, and exploring new ideas. I like building things — whether it's a web app or a garment — and I’m excited to explore game development next.</p>
+        <p>Outside of tech and design, I’m into reading, movies, music, cycling, travel, sewing, and exploring new ideas. Whether I’m building a web app or tailoring a garment, I love bringing ideas to life.</p>
         <p>'''</p>
     </div>
     <div id="education">
