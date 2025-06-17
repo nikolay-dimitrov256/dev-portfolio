@@ -32,5 +32,12 @@
 }
 
 .socials .username {
+    display: none;
     color: var(--clr-decorator);
+}
+
+@media (min-width:481px) {
+    .socials .username {
+        display: block;
+    }
 }
