@@ -40,6 +40,8 @@ permalink: /about/
                         <p><i class="fa-brands fa-python"></i> Python</p>
                         <p><i class="fa-brands fa-python"></i> Django</p>
                         <p><i class="fa-brands fa-python"></i> DRF</p>
+                        <p>Celery</p>
+                        <p>Redis</p>
                         <p>REST API</p>
                         <p><i class="fa-brands fa-js"></i> JavaScript</p>
                         <p>DOM</p>
