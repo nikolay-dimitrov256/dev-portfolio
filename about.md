@@ -62,6 +62,7 @@ permalink: /about/
                         <p>Prometheus</p>
                         <p>Alertmanager</p>
                         <p>Grafana</p>
+                        <p>Terraform</p>
                     </div>
                 </div>
             </div>
