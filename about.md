@@ -53,10 +53,12 @@ permalink: /about/
                         <p><i class="fa-brands fa-jenkins"></i> Jenkins</p>
                         <p><i class="fa-brands fa-linux"></i> Linux</p>
                         <p><i class="fa-brands fa-docker"></i> Docker</p>
+                        <p><i class="fa-brands fa-docker"></i> Docker Compose</p>
                         <p><i class="fa-brands fa-digital-ocean"></i> DigitalOcean</p>
                         <p><i class="fa-brands fa-microsoft"></i> Azure</p>
                         <p>Monitoring</p>
                         <p>Prometheus</p>
+                        <p>Alertmanager</p>
                         <p>Grafana</p>
                     </div>
                 </div>
