@@ -11,7 +11,7 @@ nav: home
     <article class="page presentation">
         <main>
             <header>
-                <p>Hello there. I am</p>
+                <p>Hello there! I am</p>
                 <h1>{{ site.title }}</h1>
                 <h2>{{ site.job_title }}</h2>
             </header>

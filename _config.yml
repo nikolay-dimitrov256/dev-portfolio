@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nikolay Dimitrov
-job_title: Python Web Developer
+job_title: Python Full Stack Developer
 email: stryker@gbg.bg
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this

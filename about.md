@@ -39,11 +39,25 @@ permalink: /about/
                     <div id="skills">
                         <p><i class="fa-brands fa-python"></i> Python</p>
                         <p><i class="fa-brands fa-python"></i> Django</p>
+                        <p><i class="fa-brands fa-python"></i> DRF</p>
                         <p>REST API</p>
                         <p><i class="fa-brands fa-js"></i> JavaScript</p>
+                        <p>DOM</p>
                         <p><i class="fa-brands fa-html5"></i> HTML</p>
                         <p><i class="fa-brands fa-css3-alt"></i> CSS</p>
                         <p><i class="fa-solid fa-database"></i> PostgreSQL</p>
+                        <p><i class="fa-brands fa-git-alt"></i> Git</p>
+                        <p><i class="fa-brands fa-github"></i> GitHub</p>
+                        <p>CI/CD</p>
+                        <p><i class="fa-brands fa-github"></i> GitHub Actions</p>
+                        <p><i class="fa-brands fa-jenkins"></i> Jenkins</p>
+                        <p><i class="fa-brands fa-linux"></i> Linux</p>
+                        <p><i class="fa-brands fa-docker"></i> Docker</p>
+                        <p><i class="fa-brands fa-digital-ocean"></i> DigitalOcean</p>
+                        <p><i class="fa-brands fa-microsoft"></i> Azure</p>
+                        <p>Monitoring</p>
+                        <p>Prometheus</p>
+                        <p>Grafana</p>
                     </div>
                 </div>
             </div>
@@ -74,6 +88,8 @@ permalink: /about/
         <p><a target="_blank" class="string" href="https://softuni.bg/certificates/details/229664/1e42cd02">Django Basics - September 2024</a></p>
         <p><a target="_blank" class="string" href="https://softuni.bg/certificates/details/233247/9448e787">Django Advanced - October 2024</a></p>
         <p><a target="_blank" class="string" href="https://softuni.bg/certificates/details/235020/222792d1">Software Engineer with Python</a></p>
+        <p><a target="_blank" class="string" href="https://softuni.bg/certificates/details/257263/e7186b33">Software Engineering and DevOps - January 2026</a></p>
+        <p><a target="_blank" class="string" href="https://softuni.bg/certificates/details/260709/8bac60cb">Containers and Cloud - February 2026</a></p>
         <p>'''</p>
     </div>
 </div>
